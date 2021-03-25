@@ -1,5 +1,4 @@
-# c
-C dili ile basit bir telefon rehberi kodlaması
+# c dili ile basit bir telefon rehberi kodlaması
 
 MENU
 Rehberi goruntule  >(1)
